@@ -1,5 +1,5 @@
 # Purdue Tutor
-[Purdue Tutor](https://www.youtube.com/watch?v=870OZapB6Xw) is a project I created with Sweta Saravanan and Serena Singh at the Hello World 2019 Hackathon hosted at Purdue University.
+[Purdue Tutor](https://www.youtube.com/watch?v=870OZapB6Xw) is a project I created with two peers at the Hello World 2019 Hackathon hosted at Purdue University.
 
 ## Project Description
 The PurdueTutor takes into account the student’s preferences and connects them with another student tutor fitted to their needs. It first starts off by asking the student what subject they need help in, the type of help they need, and what type of learners they are. The student responses are taken into account and are matched with a suitable student tutor available to help.
